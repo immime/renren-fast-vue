@@ -15,6 +15,14 @@
 ## 说明文档
 项目开发、部署等说明都在[wiki](https://github.com/daxiongYang/renren-fast-vue/wiki)中。
 
+```
+# 安装依赖（首次运行）
+cnpm install
+
+# 启动服务
+npm run dev
+```
+
 
 ## 更新日志
 每个版本的详细更改都记录在[release notes](https://github.com/daxiongYang/renren-fast-vue/releases)中。
